@@ -1,0 +1,25 @@
+.jumbotron {
+  background-color: #fff;
+  border-radius: 0px;
+}
+
+.jumbotron h3 {
+  color: red;
+}
+
+#textSearch {
+  border: red 2px solid;
+  border-radius: 40px;
+  width: 70%;
+  box-shadow: 5px 5px 20px red;
+  margin: 0 auto;
+}
+
+#movies img,
+#movie img {
+  width: 100%;
+}
+
+.row {
+  margin-top: 50px;
+}
